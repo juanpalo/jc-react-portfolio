@@ -1,7 +1,7 @@
-import React, { Component } from "react";
-import { Link } from "react-router-dom";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import axios from "axios";
+import React, { Component } from "./node_modules/react";
+import { Link } from "./node_modules/react-router-dom";
+import { FontAwesomeIcon } from "./node_modules/@fortawesome/react-fontawesome";
+import axios from "./node_modules/axios";
 import BlogItem from "../blog/blog-item";
 import BlogModal from "../modals/blog-modal";
 
