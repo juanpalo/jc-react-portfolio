@@ -95,3 +95,8 @@ export default class Login extends Component {
     );
   }
 }
+
+// https://rails.devcamp.com/22/guide/2506
+// 3:27
+// Vulnerabilities to fix
+// study time: 30 minutes
