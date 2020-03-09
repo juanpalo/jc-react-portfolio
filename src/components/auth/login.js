@@ -97,6 +97,6 @@ export default class Login extends Component {
 }
 
 // https://rails.devcamp.com/22/guide/2506
-// 3:27
-// Vulnerabilities to fix
-// study time: 30 minutes
+// 12:54 in the video
+// ! [remote rejected] master -> master (pre-receive hook declined)
+// error: failed to push some refs to 'https://git.heroku.com/jmarch-react-portfolio.git'

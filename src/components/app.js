@@ -5,7 +5,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 
 import NavigationContainer from "./navigation/navigation-container";
-import Home from "./pages/home";
+import Home from "./test/home";
 import About from "./pages/about";
 import Contact from "./pages/contact";
 import Blog from "./pages/blog";
