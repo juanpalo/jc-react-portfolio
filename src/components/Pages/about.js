@@ -1,6 +1,6 @@
-import React from './node_modules/react';
+import React from 'react';
 import profilePicture from "../../../static/assets/images/bio/devtrunk.jpg";
-import { convertFromHTML } from './node_modules/draft-js';
+import { convertFromHTML } from 'draft-js';
 
 export default function() {
     return (
